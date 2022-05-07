@@ -23,7 +23,7 @@
 		</a>
 	{/each}
 
-	<div class="mt-10 text-xl">Live Stream:</div>
+	<div class="mt-10 text-xl text-white">Live Stream:</div>
 	<div style="padding:56.25% 0 0 0;position:relative;" class="mt-1 mx-2 ">
 		<iframe
 			id="r-embed-player-iframe"
