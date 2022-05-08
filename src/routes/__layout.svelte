@@ -11,8 +11,8 @@
 		canonical="https://www.israelweb3.com"
 		openGraph={{
 			url: 'https://www.israelweb3.com',
-			title: 'Afikoman 2022 Israel web3',
-			description: 'הגרלת האפיקומן של ווב3',
+			title: 'קהילת הפיתוח של ווב3 בישראל',
+			description: 'קהילת הפיתוח של ווב3 בישראל',
 			images: [
 				{
 					url: 'https://www.israelweb3.com/bored.png',
