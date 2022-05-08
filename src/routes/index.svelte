@@ -6,7 +6,7 @@
 
 <!-- <EventsCalendar/> -->
 
-<div class="m-auto md:w-1/3 flex-col flex text-center space-y-2">
+<div class="m-auto md:w-2/4 flex-col flex text-center space-y-2">
 	<img src="bored.png" alt="logo" width="200" height="200" class="rounded-full m-auto " />
 	<div class="text-white font-mono">קהילת פיתוח ווב3 בישראל</div>
 	<LinkTree />
