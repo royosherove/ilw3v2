@@ -18,8 +18,8 @@
     <div class="text-white font-mono">קהילת פיתוח ווב3 בישראל</div>
 	{#each links as link}
 		<a href={link.url} class="">
-			<div class="border-black w-2/4 m-auto bg-gray-50 border rounded p-2 flex items-center ">
-                <img alt='icon' src={link.image} class="w-7 mr-4 ml-14"/>
+			<div class="border-black w-3/4 md:w-2/4  m-auto bg-gray-50 border rounded p-2 flex items-center ">
+                <img alt='icon' src={link.image} class="w-7 mr-4 ml-14 "/>
                 <div>
                     {link.name}
                 </div>
@@ -29,7 +29,7 @@
     <div class="text-white font-mono mt-10">לינקים נוספים</div>
 	{#each otherLinks as link}
 		<a href={link.url} class="">
-			<div class="border-black w-2/4 m-auto bg-gray-50 border rounded p-2 flex items-center ">
+			<div class="border-black w-3/4  md:w-2/4 m-auto bg-gray-50 border rounded p-2 flex items-center ">
                 <img alt='icon' src={link.image} class="w-7 mr-4 ml-14"/>
                 <div>
                     {link.name}
