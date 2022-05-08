@@ -10,7 +10,8 @@
 	];
 	const otherLinks = [
 		{ name: 'Web3il (לא פיתוחי)', url: 'https://discord.gg/2qTfa2HKWn', image: 'discord.png' },
-		{ name: 'קהילת פייסבוק', url: 'https://www.facebook.com/groups/web3.israel', image: 'fb.png' }
+		{ name: 'ווב3', url: 'https://www.facebook.com/groups/web3.israel', image: 'fb.png' },
+		{ name: 'מטאבילדרס', url: 'https://www.facebook.com/groups/metabuilders', image: 'fb.png' }
 	];
 </script>
 
