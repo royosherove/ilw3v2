@@ -1,6 +1,7 @@
 <script>
 	import '../app.css';
 	import { MetaTags } from 'svelte-meta-tags';
+	import Footer from '../components/Footer.svelte';
 </script>
 
 <head>
@@ -28,4 +29,5 @@
 
 <div class="mt-10 md:mt-20">
 	<slot />
+	<Footer/>
 </div>

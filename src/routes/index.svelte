@@ -2,6 +2,7 @@
 	import LiveStream from '../components/LiveStream.svelte';
 	import LinkTree from '../components/LinkTree.svelte';
 	import EventsCalendar from '../components/EventsCalendar.svelte';
+import Notice from '../components/Notice.svelte';
 </script>
 
 <!-- <EventsCalendar/> -->
@@ -11,5 +12,6 @@
 	<div class="text-white font-mono">קהילת פיתוח ווב3 בישראל</div>
 	<LinkTree />
 	<EventsCalendar />
+	<Notice/>
 	<LiveStream />
 </div>
