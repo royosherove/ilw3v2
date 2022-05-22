@@ -1,0 +1,51 @@
+{
+	"generalLinks": [
+		{
+			"name": "Web3il (כללי)",
+			"url": "https://discord.gg/2qTfa2HKWn",
+			"image": "discord.png"
+		},
+		{
+			"name": "Web3il טלגרם (כללי)",
+			"url": "https://t.me/Web3Hebrew",
+			"image": "telegram.png"
+		},
+		{
+			"name": "וויקלי ווב3 פודקאסט (כללי)",
+			"url": "https://open.spotify.com/show/3nivB7DelQiNxUAIVYjYs9",
+			"image": "gm.png"
+		}
+	],
+	"devlinks": [
+		{
+			"name": "דיסקורד (פיתוחי)",
+			"url": "https://discord.gg/YnpgKfcyyW",
+			"image": "discord.png"
+		},
+		{
+			"name": "טלגרם (פיתוחי)",
+			"url": "https://t.me/+-sEflgfrqDoyYWVk",
+			"image": "telegram.png"
+		},
+		{
+			"name": "מיטאפ (פיתוחי)",
+			"url": "https://www.meetup.com/ilw3-israel-web-3-0-smart-contracts-dev-meetup/",
+			"image": "meetup.png"
+		},
+		{
+			"name": "YouTube (פיתוחי)",
+			"url": "https://youtube.com/channel/UCRfgLdabcXDFKhv_BFazjYw",
+			"image": "youtube.png"
+		},
+		{
+			"name": "ווב3 בפייסבוק (פיתוחי)",
+			"url": "https://www.facebook.com/groups/web3.israel",
+			"image": "fb.png"
+		},
+		{
+			"name": "מטא בילדרס (פיתוחי)",
+			"url": "https://www.facebook.com/groups/metabuilders",
+			"image": "fb.png"
+		}
+	]
+}
