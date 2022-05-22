@@ -2,6 +2,7 @@
 	import '../app.css';
 	import { MetaTags } from 'svelte-meta-tags';
 	import Footer from '../components/Footer.svelte';
+	import NavBar from '../components/NavBar.svelte';
 </script>
 
 <head>
@@ -27,7 +28,12 @@
 	/>
 </head>
 
-<div class="mt-10 md:mt-20">
-	<slot />
+<div class="">
+	<NavBar/>
+	<div class="m-auto text-center p-2">
+		<img src="bored.png" alt="logo" width="200" height="200" class="rounded-full m-auto " />
+		<div class="text-white font-mono">קהילת ווב3 בישראל</div>
+	</div>
+	<slot/>
 	<Footer/>
 </div>

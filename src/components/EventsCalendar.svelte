@@ -1,5 +1,5 @@
 <div class=" mt-10">
-    <div class="text-white text-xl p-2">לוח אירועים</div>
+    <div class="text-white text-xl p-2 text-center">לוח אירועים</div>
 	<iframe
 		class="airtable-embed rounded"
 		src="https://airtable.com/embed/shri1lqiJdpWjjZZT?backgroundColor=orangeLight&viewControls=on"
