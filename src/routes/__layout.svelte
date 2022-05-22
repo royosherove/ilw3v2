@@ -5,7 +5,7 @@
 	import NavBar from '../components/NavBar.svelte';
 </script>
 
-<svelte:head>
+<head>
 	<script async src="//static.getclicky.com/101367315.js"></script>
 	<noscript
 		><p>
@@ -33,7 +33,7 @@
 			site_name: 'קהילת ווב3 בישראל'
 		}}
 	/>
-</svelte:head>
+</head>
 <div class="">
 	<NavBar />
 	<div class="m-auto text-center p-2">
