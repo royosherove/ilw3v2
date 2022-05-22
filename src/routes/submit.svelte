@@ -4,7 +4,7 @@ import Notice from "../components/Notice.svelte";
 <svelte:head>
     <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
 </svelte:head>
-<Notice/>
+<Notice showLink={false}/>
 <iframe 
     class="airtable-embed airtable-dynamic-height" 
     src="https://airtable.com/embed/shrTI5MHC1E7JJJSb?backgroundColor=red" 
