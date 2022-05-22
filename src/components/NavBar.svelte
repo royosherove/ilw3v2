@@ -1,6 +1,7 @@
 <script type="module" lang="ts">
   const navigation = [
   { name: 'בית', href: '/', current: false },
+  { name: 'אודות', href: '/about', current: false },
   { name: 'הגשת הרצאה', href: '/submit', current: false },
   { name: 'אירועים קרובים', href: '/events', current: false },
   { name: 'שידור חי', href: '/live', current: false },
