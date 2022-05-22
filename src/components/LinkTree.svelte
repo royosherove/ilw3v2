@@ -32,7 +32,7 @@
 	];
 </script>
 
-<div class="md:flex md:space-x-12">
+<div class="md:flex md:space-x-12 md:m-auto">
 	<div>
 		<div class="text-white font-mono mt-10">לינקים בנושא פיתוח</div>
 		{#each links as link}
