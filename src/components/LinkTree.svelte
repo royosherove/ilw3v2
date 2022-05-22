@@ -4,14 +4,14 @@
 
 	const links = [
 		{ name: 'דיסקורד (פיתוחי)', url: 'https://discord.gg/YnpgKfcyyW', image: 'discord.png' },
-		{ name: 'טלגרם', url: 'https://t.me/+-sEflgfrqDoyYWVk', image: 'telegram.png' },
-		{ name: 'מיטאפים', url: 'https://www.meetup.com/ilw3-israel-web-3-0-smart-contracts-dev-meetup/', image: 'meetup.png' },
-		{ name: 'YouTube', url: 'https://youtube.com/channel/UCRfgLdabcXDFKhv_BFazjYw', image: 'youtube.png' }
+		{ name: 'טלגרם (פיתוחי)', url: 'https://t.me/+-sEflgfrqDoyYWVk', image: 'telegram.png' },
+		{ name: 'מיטאפ (פיתוחי)', url: 'https://www.meetup.com/ilw3-israel-web-3-0-smart-contracts-dev-meetup/', image: 'meetup.png' },
+		{ name: 'YouTube (פיתוחי)', url: 'https://youtube.com/channel/UCRfgLdabcXDFKhv_BFazjYw', image: 'youtube.png' },
+		{ name: 'ווב3 בפייסבוק (פיתוחי)', url: 'https://www.facebook.com/groups/web3.israel', image: 'fb.png' },
+		{ name: 'מטא בילדרס (פיתוחי)', url: 'https://www.facebook.com/groups/metabuilders', image: 'fb.png' },
 	];
 	const otherLinks = [
-		{ name: 'Web3il (לא פיתוחי)', url: 'https://discord.gg/2qTfa2HKWn', image: 'discord.png' },
-		{ name: 'ווב3', url: 'https://www.facebook.com/groups/web3.israel', image: 'fb.png' },
-		{ name: 'מטאבילדרס', url: 'https://www.facebook.com/groups/metabuilders', image: 'fb.png' }
+		{ name: 'Web3il (כללי)', url: 'https://discord.gg/2qTfa2HKWn', image: 'discord.png' },
 	];
 </script>
 

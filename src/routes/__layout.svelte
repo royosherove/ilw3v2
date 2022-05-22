@@ -7,14 +7,14 @@
 
 <head>
 	<MetaTags
-		title="קהילת פיתוח ווב3 בישראל"
-		titleTemplate="קהילת פיתוח ווב3 בישראל"
-		description="דף הבית של קהילת פיתוח ווב3 בישראל - מפגשים דיסקורד טלגרם ועוד"
+		title="קהילת ווב3 בישראל"
+		titleTemplate="קהילת ווב3 בישראל"
+		description="דף הבית של קהילת ווב3 בישראל - מפגשים דיסקורד טלגרם ועוד"
 		canonical="https://www.israelweb3.com"
 		openGraph={{
 			url: 'https://www.israelweb3.com',
-			title: 'קהילת הפיתוח של ווב3 בישראל',
-			description: 'קהילת הפיתוח של ווב3 בישראל',
+			title: 'קהילת ווב3 בישראל',
+			description: 'קהילת ווב3 בישראל',
 			images: [
 				{
 					url: 'https://www.israelweb3.com/bored.png',
@@ -23,7 +23,7 @@
 					alt: 'Israel Web3'
 				}
 			],
-			site_name: 'קהילת פיתוח ווב3 בישראל'
+			site_name: 'קהילת ווב3 בישראל'
 		}}
 	/>
 </head>
