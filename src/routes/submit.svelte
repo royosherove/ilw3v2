@@ -1,10 +1,12 @@
 <script>
+import Videos from "../components/Videos.svelte";
 import Notice from "../components/Notice.svelte";
 </script>
 <svelte:head>
     <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
 </svelte:head>
 <Notice showLink={false}/>
+<Videos/>
 <iframe 
     class="airtable-embed airtable-dynamic-height" 
     src="https://airtable.com/embed/shrTI5MHC1E7JJJSb?backgroundColor=red" 

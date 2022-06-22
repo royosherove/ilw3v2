@@ -1,4 +1,8 @@
 <script lang="ts">
-    import LiveStream from "../components/LiveStream.svelte";
+import Videos from "../components/Videos.svelte";
+import LiveStream from "../components/LiveStream.svelte";
 </script>
+
+<Videos/>
+
 <LiveStream/>
